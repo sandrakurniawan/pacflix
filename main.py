@@ -1,1 +1,1 @@
-print ("halo  ini di dalam main.py")
+print ("Halo ini di dalam document main.py")
